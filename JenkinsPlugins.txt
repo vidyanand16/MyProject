@@ -1,0 +1,9 @@
+Build Pipeline
+Cobertura 
+CodeSonar
+GitHub Branch Source PlugIn
+Quality Gates PlugIn
+Sonar Gerrit
+SonarQube Scanner for Jenkins
+TestNG Results PlugIn
+workspace cleanup plugin
